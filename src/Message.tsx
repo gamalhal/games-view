@@ -1,5 +1,5 @@
 function Message () {
-    const name = "";
+    const name = "gamal";
     if (name == "gamal") {
     return (<h1>hellow {name}</h1>);
 }else {
